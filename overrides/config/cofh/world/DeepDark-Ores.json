@@ -1,0 +1,77 @@
+{
+    "ddUranium": {
+        "template": "uniform",
+        "block": {"name": "NuclearCraft:blockOre", "metadata": 4},
+        "clusterSize": 10,
+        "numClusters": 2,
+        "minHeight": 0,
+        "maxHeight": 36,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "ddThorium": {
+        "template": "uniform",
+        "block": {"name": "NuclearCraft:blockOre", "metadata": 5},
+        "clusterSize": 7,
+        "numClusters": 2,
+        "minHeight": 0,
+        "maxHeight": 36,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "ddLithium": {
+        "template": "uniform",
+        "block": {"name": "NuclearCraft:blockOre", "metadata": 7},
+        "clusterSize": 7,
+        "numClusters": 7,
+        "minHeight": 0,
+        "maxHeight": 32,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "ddBoron": {
+        "template": "uniform",
+        "block": {"name": "NuclearCraft:blockOre", "metadata": 8},
+        "clusterSize": 7,
+        "numClusters": 7,
+        "minHeight": 0,
+        "maxHeight": 24,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "ddMagnesium": {
+        "template": "uniform",
+        "block": {"name": "NuclearCraft:blockOre", "metadata": 9},
+        "clusterSize": 7,
+        "numClusters": 7,
+        "minHeight": 0,
+        "maxHeight": 24,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    }
+}

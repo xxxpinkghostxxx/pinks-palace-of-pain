@@ -1,0 +1,96 @@
+key_key.attack:-100
+key_key.use:-99
+key_key.forward:17
+key_key.left:30
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:42
+key_key.drop:16
+key_key.inventory:18
+key_key.chat:20
+key_key.playerlist:15
+key_key.pickItem:-98
+key_key.command:53
+key_key.screenshot:60
+key_key.togglePerspective:63
+key_key.smoothCamera:66
+key_key.sprint:29
+key_key.fullscreen:87
+key_key.hotbar.1:2
+key_key.hotbar.2:3
+key_key.hotbar.3:4
+key_key.hotbar.4:5
+key_key.hotbar.5:6
+key_key.hotbar.6:7
+key_key.hotbar.7:8
+key_key.hotbar.8:9
+key_key.hotbar.9:10
+key_ALT Key:0
+key_Boost Key:0
+key_Mode Switch Key:0
+key_Side Inventory Key:0
+key_Hub Expand Key:0
+key_keys.baubleshud.config:0
+key_Clipboard:0
+key_Open Consumer GUI:0
+key_Ender Pack:0
+key_key.party:0
+key_key.next:0
+key_key.prev:0
+key_cos.key.openCosArmorInventory:0
+key_Tool Increase:0
+key_Tool Decrease:0
+key_key.openCompendium:0
+key_key_ironbackpacks_openbackpack:0
+key_key_ironbackpacks_equipbackpack:0
+key_Pneumatic Helmet Options:0
+key_Pneumatic Helmet Hack:0
+key_Pneumatic Helmet Debugging Drone:0
+key_asjcore.noEntityInteract:68
+key_Baubles Inventory:0
+key_Change Wand Focus:0
+key_Activate Hover Harness:0
+key_Misc Wand Toggle:0
+key_key.aether.accessory_menu:0
+key_key.next_spell:0
+key_key.previous_spell:0
+key_Unequip:0
+key_waila.keybind.wailaconfig:0
+key_waila.keybind.wailadisplay:0
+key_waila.keybind.liquid:0
+key_waila.keybind.recipe:0
+key_waila.keybind.usage:0
+key_Glider Toggle:0
+key_Sound Locator:0
+key_Night Vision:0
+key_Goggles of Revealing:0
+key_Step Assist:0
+key_Speed:0
+key_Jump:0
+key_Yeta Wrench Mode:0
+key_Toggle Electromagnet:0
+key_key.tarmor:0
+key_key.tgoggles:0
+key_key.tbelt:0
+key_key.tzoom:0
+key_ttmisc.toggleArmor:0
+key_invtweaks.key.sort:0
+key_key.nutrition:0
+key_key.primitivemobs.desc:0
+key_key.secretroomsmod.oneWayface:0
+key_key.cofh.empower:0
+key_key.cofh.multimode:0
+key_key.akashic.desc:0
+key_key.lolicorn.desc:0
+key_railcraft.keybind.loco.faster:0
+key_railcraft.keybind.loco.slower:0
+key_railcraft.keybind.loco.mode:0
+key_railcraft.keybind.loco.whistle:0
+key_key.control:0
+key_key.journeymap.map_toggle:36
+key_key.journeymap.zoom_in:13
+key_key.journeymap.zoom_out:12
+key_key.journeymap.minimap_type:26
+key_key.journeymap.minimap_preset:43
+key_key.journeymap.create_waypoint:49

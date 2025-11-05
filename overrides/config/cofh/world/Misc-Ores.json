@@ -1,0 +1,18 @@
+{
+    "clay": {
+        "template": "uniform",
+        "block": "clay",
+        "clusterSize": 20,
+        "numClusters": 3,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
