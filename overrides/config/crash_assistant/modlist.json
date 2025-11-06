@@ -54,6 +54,11 @@
     "modId": "alfheim",
     "version": "63"
   },
+  "AntiIdConflict-1.3.5-1.7.10.jar": {
+    "jarName": "AntiIdConflict-1.3.5-1.7.10.jar",
+    "modId": "antiidconflict",
+    "version": "1.3.5"
+  },
   "AppleCore-mc1.7.10-3.1.1.jar": {
     "jarName": "AppleCore-mc1.7.10-3.1.1.jar"
   },
@@ -61,16 +66,6 @@
     "jarName": "appliedenergistics2-rv3-beta-6.jar",
     "modId": "appliedenergistics2",
     "version": "rv3-beta-6"
-  },
-  "Aroma1997Core-1.7.10-1.0.2.16.jar": {
-    "jarName": "Aroma1997Core-1.7.10-1.0.2.16.jar",
-    "modId": "Aroma1997Core",
-    "version": "1.0.2.16"
-  },
-  "AromaBackup-1.7.10-0.1.0.0.jar": {
-    "jarName": "AromaBackup-1.7.10-0.1.0.0.jar",
-    "modId": "AromaBackup",
-    "version": "0.1.0.0"
   },
   "BattleTowers-1.7.10.jar": {
     "jarName": "BattleTowers-1.7.10.jar",
@@ -236,6 +231,11 @@
     "jarName": "EnderZoo-1.7.10-1.0.15.32.jar",
     "modId": "EnderZoo",
     "version": "1.7.10-1.0.15.32"
+  },
+  "Excore-1.5.3-1.7.10.jar": {
+    "jarName": "Excore-1.5.3-1.7.10.jar",
+    "modId": "excore",
+    "version": "1.0"
   },
   "ExtraTiC-1.7.10-1.4.6.jar": {
     "jarName": "ExtraTiC-1.7.10-1.4.6.jar",
@@ -499,10 +499,10 @@
     "modId": "RedstoneArsenal",
     "version": "1.1.2"
   },
-  "Reliquary-1.7.10-1.2.1.483.jar": {
-    "jarName": "Reliquary-1.7.10-1.2.1.483.jar",
+  "Reliquary-1.2.jar": {
+    "jarName": "Reliquary-1.2.jar",
     "modId": "xreliquary",
-    "version": "1.7.10-1.2.1.483"
+    "version": "1.2"
   },
   "roguelike-1.7.10-1.5.0b.jar": {
     "jarName": "roguelike-1.7.10-1.5.0b.jar",

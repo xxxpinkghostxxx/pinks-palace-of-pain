@@ -6491,7 +6491,7 @@ EnderZoo:blockConcussionCharge, Concussion Charge
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Enrichment Device)
+ExtraUtilities:endConstructor:0, QED (Quasar Entanglement Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -7465,38 +7465,38 @@ ExtraTiC:moltenConstantan, Molten Constantan
 ExtraTiC:blockFunStuff:0, Fairy Block
 ExtraTiC:blockFunStuff:1, Pokefennium Block
 ExtraTiC:blockFunStuff:2, RedAurum Block
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
 ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
 ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:fireAir, Aer Imbued Fire
 ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
 ThaumicTinkerer:magnet:0, Kinetic Attractor
 ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
 ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -8794,7 +8794,6 @@ alfheim:LivingwoodFence, Livingwood Planks Fence
 alfheim:DreamwoodFenceGate, Dreamwood Planks Fence Gate
 alfheim:DreamwoodFence, Dreamwood Planks Fence
 alfheim:DwarfTrapDoor, tile.DwarfTrapDoor.name
-Aroma1997Core:wrench, Aromic Hammer
 abyssalcraft:devsword, The Dev Blade
 abyssalcraft:OC, Oblivion Catalyst
 abyssalcraft:portalplacer, Gateway Key
@@ -19101,10 +19100,9 @@ RedstoneArsenal:tool.axeFlux, Flux-Infused Axe
 RedstoneArsenal:tool.fishingRodFlux, Flux-Infused Fishing Rod
 RedstoneArsenal:tool.sickleFlux, Flux-Infused Sickle
 RedstoneArsenal:tool.bowFlux, Flux-Infused Bow
-xreliquary:alkahest_tome:0, Tome of Alkahestry
+xreliquary:alkahest_tome:250, Tome of Alkahestry
 xreliquary:angelheart_vial, Angelheart Vial
 xreliquary:angelic_feather, Angelic Feather
-xreliquary:attraction_potion:0, Aphrodite's Serum
 xreliquary:bullet:0, Empty Casing
 xreliquary:bullet:1, Neutral Shot
 xreliquary:bullet:2, Exorcism Shot
@@ -19115,34 +19113,56 @@ xreliquary:bullet:6, Buster Shot
 xreliquary:bullet:7, Seeker Shot
 xreliquary:bullet:8, Sand Shot
 xreliquary:bullet:9, Storm Shot
+xreliquary:claws_of_the_firedrinker, {{!colors.red}}Claws of the Firedrinker
+xreliquary:condensed_potion:0, Condensed Splash Serum
+xreliquary:condensed_potion:1, Love Potion #9
+xreliquary:condensed_potion:2, Splash Poison Serum
+xreliquary:condensed_potion:3, Splash Acid Serum
+xreliquary:condensed_potion:4, Splash Confusion Serum
+xreliquary:condensed_potion:5, Splash Slowing Serum
+xreliquary:condensed_potion:6, Splash Weakness Serum
+xreliquary:condensed_potion:7, Splash Wither Serum
+xreliquary:condensed_potion:8, Splash Blinding Serum
+xreliquary:condensed_potion:9, Splash Ruination Serum
+xreliquary:condensed_potion:10, Splash Fertilizer Serum
+xreliquary:condensed_potion:11, Empty Vial
+xreliquary:condensed_potion:12, Condensed Solvent
+xreliquary:condensed_potion:13, Elixir of Speed
+xreliquary:condensed_potion:14, Elixir of Digging
+xreliquary:condensed_potion:15, Elixir of Strength
+xreliquary:condensed_potion:16, Elixir of Healing
+xreliquary:condensed_potion:17, Elixir of Bounding
+xreliquary:condensed_potion:18, Elixir of Regeneration
+xreliquary:condensed_potion:19, Elixir of Resistance
+xreliquary:condensed_potion:20, Elixir of Fire Warding
+xreliquary:condensed_potion:21, Elixir of Breathing
+xreliquary:condensed_potion:22, Elixir of Invisibility
+xreliquary:condensed_potion:23, Elixir of Infravision
+xreliquary:condensed_potion:24, Ablative Protection
+xreliquary:condensed_potion:25, Alchemical Potency
+xreliquary:condensed_potion:26, Alchemical Celerity
+xreliquary:condensed_potion:27, Grand Panacea
+xreliquary:condensed_potion:28, Stalker's Serum
+xreliquary:condensed_potion:29, Vial of Ordinary Water
+xreliquary:crimson_cloth, Crimson Cloth
 xreliquary:destruction_catalyst:0, Destruction Catalyst
-xreliquary:emperor_chalice:0, Emperor's Chalice
+xreliquary:dragon_claws, Dragon Claws
+xreliquary:dragon_talon, Dragon Talon
+xreliquary:emperor_chalice, Emperor's Chalice
 xreliquary:ender_staff:0, Ender Staff
-xreliquary:fertile_potion:0, Fertile Potion
 xreliquary:fortune_coin, Coin of Fortune
-xreliquary:glacial_staff:0, Glacial Staff
 xreliquary:glowing_bread, Glowing Bread
 xreliquary:glowing_water, Glowing Water
-xreliquary:gun_part:0, Grip Assembly
-xreliquary:gun_part:1, Barrel Assembly
-xreliquary:gun_part:2, Hammer Assembly
+xreliquary:gun_part_:0, Grip Assembly
+xreliquary:gun_part_:1, Barrel Assembly
+xreliquary:gun_part_:2, Hammer Assembly
 xreliquary:handgun, Hunter's Handgun
-xreliquary:harvest_rod:0, §2Harvest Rod
-xreliquary:heart_pearl:0, §cZombie Pearl
-xreliquary:heart_pearl:1, §fSkeleton Pearl
-xreliquary:heart_pearl:2, §8Wither Skeleton Pearl
-xreliquary:heart_pearl:3, §aCreeper Pearl
-xreliquary:heart_zhu:0, §cZombie Nian Zhu
-xreliquary:heart_zhu:1, §fSkeleton Nian Zhu
-xreliquary:heart_zhu:2, §8Wither Skeleton Nian Zhu
-xreliquary:heart_zhu:3, §aCreeper Nian Zhu
 xreliquary:hero_medallion:0, Hero's Medallion
 xreliquary:holy_hand_grenade, Holy Hand Grenade
 xreliquary:ice_magus_rod:0, Ice Magus Rod
-xreliquary:infernal_chalice:0, Infernal Chalice
-xreliquary:infernal_claws, {{!colors.red}}Infernal Claws
-xreliquary:infernal_tear:0, §4Infernal Tear
+xreliquary:infernal_tear:0, §eEmpty Infernal Tear
 xreliquary:kraken_shell, Kraken Shell
+xreliquary:kraken_shell_fragment, Kraken Shell Fragment
 xreliquary:lantern_of_paranoia:0, §eLantern Of Paranoia
 xreliquary:magazine:0, Empty Magazine
 xreliquary:magazine:1, Neutral Magazine
@@ -19157,37 +19177,15 @@ xreliquary:magazine:9, Storm Magazine
 xreliquary:magicbane, Magicbane
 xreliquary:mercy_cross, Cross of Mercy
 xreliquary:midas_touchstone:0, Touchstone of Midas
-xreliquary:mob_ingredient:0, Rib Bone
-xreliquary:mob_ingredient:1, Withered Rib
-xreliquary:mob_ingredient:2, Chelicerae
-xreliquary:mob_ingredient:3, Catalyzing Gland
-xreliquary:mob_ingredient:4, Slime Pearl
-xreliquary:mob_ingredient:5, Bat Wing
-xreliquary:mob_ingredient:6, Zombie Heart
-xreliquary:mob_ingredient:7, Molten Core
-xreliquary:mob_ingredient:8, Eye of the Storm
-xreliquary:mob_ingredient:9, Fertile Essence
-xreliquary:mob_ingredient:10, Frozen Core
-xreliquary:mob_ingredient:11, Nebulous Heart
-xreliquary:mob_ingredient:12, Squid Beak
-xreliquary:mob_ingredient:13, Infernal Claw
-xreliquary:mob_ingredient:14, Kraken Shell Fragment
-xreliquary:mob_ingredient:15, Crimson Cloth
 xreliquary:phoenix_down, Phoenix Down
-xreliquary:potion_essence, Potion Essence
-xreliquary:pyromancer_staff:0, §4Pyromancer's Staff
-xreliquary:rending_gale:0, §eRending Gale
-xreliquary:rod_of_lyssa, Rod of Lyssa
 xreliquary:salamander_eye, Salamander's Eye
 xreliquary:serpent_staff, {{!colors.green}}Serpent Staff
-xreliquary:shears_of_winter, Shears of Winter
 xreliquary:sojourner_staff:0, Sojourner's Staff
+xreliquary:squid_beak, Squid Beak
 xreliquary:twilight_cloak:0, Twilight Cloak
-xreliquary:void_tear:0, Void Tear
-xreliquary:void_tear_empty, Empty Void Tear
+xreliquary:void_tear:0, Empty Void Tear
 xreliquary:witch_hat, {{!colors.yellow}}Witch Hat
 xreliquary:witherless_rose, Witherless Rose
-xreliquary:potion, Condensed Potion
 secretroomsmod:SecretWoodenDoorItem, Secret Wooden Door
 secretroomsmod:SecretWoodenIronItem, Secret Iron Door
 secretroomsmod:CamoflaugePaste, Camouflage Paste

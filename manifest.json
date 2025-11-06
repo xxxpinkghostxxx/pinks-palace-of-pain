@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Pink's Palace of Pain",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "",
   "files": [
     {
@@ -25,13 +25,13 @@
       "required": true
     },
     {
-      "projectID": 445557,
-      "fileID": 7160929,
+      "projectID": 231868,
+      "fileID": 4671288,
       "required": true
     },
     {
-      "projectID": 231868,
-      "fileID": 4671288,
+      "projectID": 445557,
+      "fileID": 7160929,
       "required": true
     },
     {
@@ -195,6 +195,11 @@
       "required": true
     },
     {
+      "projectID": 59713,
+      "fileID": 2216410,
+      "required": true
+    },
+    {
       "projectID": 234851,
       "fileID": 2363530,
       "required": true
@@ -335,11 +340,6 @@
       "required": true
     },
     {
-      "projectID": 240783,
-      "fileID": 2279650,
-      "required": true
-    },
-    {
       "projectID": 230103,
       "fileID": 2244260,
       "required": true
@@ -405,11 +405,6 @@
       "required": true
     },
     {
-      "projectID": 223735,
-      "fileID": 2257644,
-      "required": true
-    },
-    {
       "projectID": 235279,
       "fileID": 2287442,
       "required": true
@@ -450,11 +445,6 @@
       "required": true
     },
     {
-      "projectID": 225658,
-      "fileID": 2284754,
-      "required": true
-    },
-    {
       "projectID": 220318,
       "fileID": 2281726,
       "required": true
@@ -482,6 +472,11 @@
     {
       "projectID": 242845,
       "fileID": 2307512,
+      "required": true
+    },
+    {
+      "projectID": 233180,
+      "fileID": 2297853,
       "required": true
     },
     {
@@ -565,11 +560,6 @@
       "required": true
     },
     {
-      "projectID": 241319,
-      "fileID": 2323453,
-      "required": true
-    },
-    {
       "projectID": 74072,
       "fileID": 2264246,
       "required": true
@@ -632,6 +622,11 @@
     {
       "projectID": 250498,
       "fileID": 2327392,
+      "required": true
+    },
+    {
+      "projectID": 246288,
+      "fileID": 2308279,
       "required": true
     },
     {
