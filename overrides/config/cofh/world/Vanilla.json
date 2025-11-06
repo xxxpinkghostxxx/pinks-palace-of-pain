@@ -41,11 +41,9 @@
         "retrogen": "true",
         "biomeRestriction": "whitelist",
         "biomes": [
-            "hell"
+            {"type": "dictionary", "entry": "NETHER"}
         ],
-        "dimensionRestriction": "whitelist",
-        "dimensions": [
-            -1
-        ]
+        "dimensionRestriction": "none",
+        "dimensions": []
     }
 }
