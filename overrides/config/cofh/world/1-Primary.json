@@ -52,7 +52,7 @@
         "template": "normal",
         "block": "minecraft:redstone_ore",
         "clusterSize": 8,
-        "numClusters": 2,
+        "numClusters": 5,
         "meanHeight": 10,
         "maxVariance": 6,
         "retrogen": "true",
