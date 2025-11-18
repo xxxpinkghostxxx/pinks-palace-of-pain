@@ -1,4 +1,4 @@
-Total amount of free biome ids: C:\Minecraft\CurseForge\Instances\Pink Palace Pack\config\AntiIDConflict\biomes\avaibleIDs.txt
+Total amount of free biome ids: C:\Minecraft\CurseForge\Instances\Pink's Palace of Pain (Dev)\config\AntiIDConflict\biomes\avaibleIDs.txt
 List of free biome ids:
 125
 126

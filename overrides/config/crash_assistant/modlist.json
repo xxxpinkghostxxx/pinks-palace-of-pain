@@ -4,10 +4,10 @@
     "modId": "forge",
     "version": "forge-1.7.10-10.13.4.1614-1.7.10.jar"
   },
-  "!!!CrashAssistant-forge-1.7.10-1.10.18.jar": {
-    "jarName": "!!!CrashAssistant-forge-1.7.10-1.10.18.jar",
+  "!!!CrashAssistant-forge-1.7.10-1.10.21.jar": {
+    "jarName": "!!!CrashAssistant-forge-1.7.10-1.10.21.jar",
     "modId": "crash_assistant",
-    "version": "1.10.18"
+    "version": "1.10.21"
   },
   "+unimixins-all-1.7.10-0.1.23.jar": {
     "jarName": "+unimixins-all-1.7.10-0.1.23.jar",
@@ -33,6 +33,10 @@
     "jarName": "ActuallyAdditions-1.7.10-r21.jar",
     "modId": "ActuallyAdditions",
     "version": "1.7.10-r21"
+  },
+  "AdvancedMachinesAS-1.7.10.jar": {
+    "jarName": "AdvancedMachinesAS-1.7.10.jar",
+    "modId": "AdvancedMachines"
   },
   "AdvancedSolarPanel_1.7.10_Edition.jar": {
     "jarName": "AdvancedSolarPanel_1.7.10_Edition.jar",
@@ -66,6 +70,11 @@
     "jarName": "appliedenergistics2-rv3-beta-6.jar",
     "modId": "appliedenergistics2",
     "version": "rv3-beta-6"
+  },
+  "ASP + GS Patcher.jar": {
+    "jarName": "ASP + GS Patcher.jar",
+    "modId": "ChocoPatcher",
+    "version": "1.2"
   },
   "BattleTowers-1.7.10.jar": {
     "jarName": "BattleTowers-1.7.10.jar",
@@ -131,10 +140,10 @@
     "modId": "chocolateQuest",
     "version": "1.7.10-1.1d"
   },
-  "CodeChickenCore-1.4.7.jar": {
-    "jarName": "CodeChickenCore-1.4.7.jar",
+  "CodeChickenCore-1.4.8.jar": {
+    "jarName": "CodeChickenCore-1.4.8.jar",
     "modId": "CodeChickenCore",
-    "version": "1.4.7"
+    "version": "1.4.8"
   },
   "CoFHCore-[1.7.10]3.1.4-329.jar": {
     "jarName": "CoFHCore-[1.7.10]3.1.4-329.jar",
@@ -237,6 +246,11 @@
     "modId": "excore",
     "version": "1.0"
   },
+  "ExtendedPotions-MC1.7.10-1.2.jar": {
+    "jarName": "ExtendedPotions-MC1.7.10-1.2.jar",
+    "modId": "ExtendedPotions",
+    "version": "1.2"
+  },
   "ExtraTiC-1.7.10-1.4.6.jar": {
     "jarName": "ExtraTiC-1.7.10-1.4.6.jar",
     "modId": "ExtraTiC",
@@ -287,6 +301,11 @@
     "modId": "gravestone",
     "version": "0.7.10.3"
   },
+  "GravitationSuite.jar": {
+    "jarName": "GravitationSuite.jar",
+    "modId": "GraviSuite",
+    "version": "1.7.10-2.0.3"
+  },
   "GravityGun-4.0.0-beta.jar": {
     "jarName": "GravityGun-4.0.0-beta.jar"
   },
@@ -295,10 +314,10 @@
     "modId": "HardcoreEnderExpansion",
     "version": "1.8.6"
   },
-  "Harvest-1.7.10-1.0.0-2.jar": {
-    "jarName": "Harvest-1.7.10-1.0.0-2.jar",
-    "modId": "Harvest",
-    "version": "1.7.10-1.0.0-2"
+  "IC2NuclearControl-2.4.5a.jar": {
+    "jarName": "IC2NuclearControl-2.4.5a.jar",
+    "modId": "IC2NuclearControl",
+    "version": "2.4.5a"
   },
   "iChunUtil-4.2.3.jar": {
     "jarName": "iChunUtil-4.2.3.jar",
@@ -426,6 +445,16 @@
     "modId": "nutrition",
     "version": "0.1.3"
   },
+  "OpenBlocks-1.7.10-1.6.jar": {
+    "jarName": "OpenBlocks-1.7.10-1.6.jar",
+    "modId": "OpenBlocks",
+    "version": "1.6"
+  },
+  "OpenModsLib-1.7.10-0.10.1.jar": {
+    "jarName": "OpenModsLib-1.7.10-0.10.1.jar",
+    "modId": "OpenMods",
+    "version": "0.10.1"
+  },
   "OpenModularTurrets-1.7.10-2.3.7.jar": {
     "jarName": "OpenModularTurrets-1.7.10-2.3.7.jar",
     "modId": "openmodularturrets",
@@ -516,6 +545,16 @@
   },
   "serializationisbad-1.5.2.jar": {
     "jarName": "serializationisbad-1.5.2.jar"
+  },
+  "SGCraft-1.13.3-mc1.7.10.jar": {
+    "jarName": "SGCraft-1.13.3-mc1.7.10.jar",
+    "modId": "SGCraft",
+    "version": "1.13.3-mc1.7.10"
+  },
+  "SimplyJetpacks-MC1.7.10-1.5.3.jar": {
+    "jarName": "SimplyJetpacks-MC1.7.10-1.5.3.jar",
+    "modId": "simplyjetpacks",
+    "version": "1.5.3"
   },
   "SoulShards-TOW-1.7.10-0.1-RC9-7.jar": {
     "jarName": "SoulShards-TOW-1.7.10-0.1-RC9-7.jar",

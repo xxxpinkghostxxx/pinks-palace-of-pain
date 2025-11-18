@@ -108,7 +108,7 @@
 107 is Avaible
 108 is Avaible
 109 is Avaible
-110 is Avaible
+110 is Occupied by: simplyjetpacks.enchantment.fuelEfficiency (tonius.simplyjetpacks.enchantment.EnchantmentFuelEfficiency)
 111 is Avaible
 112 is Avaible
 113 is Avaible
@@ -209,9 +209,9 @@
 208 is Avaible
 209 is Avaible
 210 is Avaible
-211 is Avaible
-212 is Avaible
-213 is Avaible
+211 is Occupied by: enchantment.openblocks.explosive (openblocks.enchantments.EnchantmentExplosive)
+212 is Occupied by: enchantment.openblocks.laststand (openblocks.enchantments.EnchantmentLastStand)
+213 is Occupied by: enchantment.openblocks.flimflam (openblocks.enchantments.EnchantmentFlimFlam)
 214 is Avaible
 215 is Avaible
 216 is Avaible

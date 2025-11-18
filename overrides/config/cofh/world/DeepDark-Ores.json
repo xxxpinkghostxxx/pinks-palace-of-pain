@@ -11,7 +11,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            -100
+            -100,
+            -19
         ]
     },
     "ddThorium": {
@@ -26,7 +27,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            -100
+            -100,
+            -19
         ]
     },
     "ddLithium": {
@@ -41,7 +43,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            -100
+            -100,
+            -19
         ]
     },
     "ddBoron": {
@@ -56,7 +59,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            -100
+            -100,
+            -19
         ]
     },
     "ddMagnesium": {
@@ -71,7 +75,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            -100
+            -100,
+            -19
         ]
     }
 }

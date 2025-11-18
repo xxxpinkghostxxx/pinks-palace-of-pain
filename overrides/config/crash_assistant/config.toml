@@ -38,6 +38,10 @@
 	enable_privacy_policy_acceptance = true
 	#If options.txt doesn't exist, the default language will be used.
 	default_lang = "en_us"
+	#Generates "logs/stderr_stream.log" with stderr stream.
+	#Since many launchers are not saving this info, which is extremely helpful for debugging some crashes.
+	#As only where crash reason is present. Keeps original stream untouched, just logs it to a file.
+	generate_own_launcher_log = true
 	#List of blacklisted log files (checked with startswith()). This files won't show in GUI logs list.
 	blacklisted_logs = []
 	#Unfortunately mclogs censoring ip-like versions as has no way to determine if it's version or IP.

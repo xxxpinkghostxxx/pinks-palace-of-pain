@@ -1259,6 +1259,11 @@ IC2:fluidDistilledWater, ic2.fluidDistilledWater.name
 IC2:fluidSuperheatedSteam, ic2.fluidSuperheatedSteam.name
 IC2:fluidSteam, ic2.fluidSteam.name
 IC2:fluidHotWater, ic2.fluidHotWater.name
+AdvancedMachines:blockAdvMachine:0, §6Rotary Macerator
+AdvancedMachines:blockAdvMachine:1, §6Singularity Compressor
+AdvancedMachines:blockAdvMachine:2, §6Centrifuge Extractor
+AdvancedMachines:blockAdvMachine:3, §6Combined Recycler
+AdvancedMachines:blockAdvMachine:4, §6Rotary Ore Washer
 AdvancedSolarPanel:BlockMolecularTransformer, Unnamed Block, report to mod author.
 AdvancedSolarPanel:BlockAdvSolarPanel:0, Advanced Solar Panel
 AdvancedSolarPanel:BlockAdvSolarPanel:1, Hybrid Solar Panel
@@ -6491,7 +6496,7 @@ EnderZoo:blockConcussionCharge, Concussion Charge
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quasar Entanglement Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Ender Diviner)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -6974,7 +6979,6 @@ harvestcraft:pamryeCrop, Rye Crop
 harvestcraft:pamcornCrop, Corn Crop
 harvestcraft:pambambooshootCrop, Bamboo Crop
 harvestcraft:pamcantaloupeCrop, Cantaloupe Crop
-harvestcraft:pamcucumberCrop, Cucumber Crop
 minecraft:record_13, Music Disc
 minecraft:record_cat, Music Disc
 minecraft:record_blocks, Music Disc
@@ -6987,6 +6991,7 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
+harvestcraft:pamcucumberCrop, Cucumber Crop
 harvestcraft:pamwintersquashCrop, Winter Squash Crop
 harvestcraft:pamzucchiniCrop, Zucchini Crop
 harvestcraft:pambeetCrop, Beet Crop
@@ -7465,38 +7470,38 @@ ExtraTiC:moltenConstantan, Molten Constantan
 ExtraTiC:blockFunStuff:0, Fairy Block
 ExtraTiC:blockFunStuff:1, Pokefennium Block
 ExtraTiC:blockFunStuff:2, RedAurum Block
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
-ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
-ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
 ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
 ThaumicTinkerer:magnet:0, Kinetic Attractor
 ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:enchanter, Osmotic Enchanter
 ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:enchanter, Osmotic Enchanter
 ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
+ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
+ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -7508,6 +7513,7 @@ ForbiddenMagic:TaintLeaves, Tainted Leaves
 ForbiddenMagic:TaintSapling, Tainted Sapling
 ForbiddenMagic:TaintBlock:0, Tainted Stone
 ForbiddenMagic:TaintBlock:1, Tainted Stone Bricks
+GraviSuite:BlockRelocatorPortal, Unnamed Block, report to mod author.
 HardcoreEnderExpansion:enhanced_tnt, TNT
 HardcoreEnderExpansion:end_powder_ore, End Powder Ore
 HardcoreEnderExpansion:void_chest, Void Chest
@@ -7814,6 +7820,92 @@ NuclearCraft:antimatterBomb, Antimatter Bomb
 NuclearCraft:antimatterBombE, Antimatter Bomb
 NuclearCraft:EMP, EMP Bomb
 NuclearCraft:EMPE, EMP Bomb
+OpenBlocks:ladder, Jaded Ladder
+OpenBlocks:guide, Building Guide
+OpenBlocks:builder_guide, Enhanced Building Guide
+OpenBlocks:elevator:0, Elevator
+OpenBlocks:elevator:1, Elevator
+OpenBlocks:elevator:2, Elevator
+OpenBlocks:elevator:3, Elevator
+OpenBlocks:elevator:4, Elevator
+OpenBlocks:elevator:5, Elevator
+OpenBlocks:elevator:6, Elevator
+OpenBlocks:elevator:7, Elevator
+OpenBlocks:elevator:8, Elevator
+OpenBlocks:elevator:9, Elevator
+OpenBlocks:elevator:10, Elevator
+OpenBlocks:elevator:11, Elevator
+OpenBlocks:elevator:12, Elevator
+OpenBlocks:elevator:13, Elevator
+OpenBlocks:elevator:14, Elevator
+OpenBlocks:elevator:15, Elevator
+OpenBlocks:elevator_rotating:0, Rotating Elevator
+OpenBlocks:elevator_rotating:1, Rotating Elevator
+OpenBlocks:elevator_rotating:2, Rotating Elevator
+OpenBlocks:elevator_rotating:3, Rotating Elevator
+OpenBlocks:elevator_rotating:4, Rotating Elevator
+OpenBlocks:elevator_rotating:5, Rotating Elevator
+OpenBlocks:elevator_rotating:6, Rotating Elevator
+OpenBlocks:elevator_rotating:7, Rotating Elevator
+OpenBlocks:elevator_rotating:8, Rotating Elevator
+OpenBlocks:elevator_rotating:9, Rotating Elevator
+OpenBlocks:elevator_rotating:10, Rotating Elevator
+OpenBlocks:elevator_rotating:11, Rotating Elevator
+OpenBlocks:elevator_rotating:12, Rotating Elevator
+OpenBlocks:elevator_rotating:13, Rotating Elevator
+OpenBlocks:elevator_rotating:14, Rotating Elevator
+OpenBlocks:elevator_rotating:15, Rotating Elevator
+OpenBlocks:heal, Healer
+OpenBlocks:target, Target
+OpenBlocks:flag, Flag
+OpenBlocks:tank, Tank
+OpenBlocks:trophy, Trophy
+OpenBlocks:beartrap, Bear Trap
+OpenBlocks:sprinkler, Sprinkler
+OpenBlocks:cannon, Item Cannon
+OpenBlocks:vacuumhopper, Vacuum Hopper
+OpenBlocks:sponge, Sponge
+OpenBlocks:bigbutton, Big Button
+OpenBlocks:imaginary:0, Magic Pencil
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:fan, Fan
+OpenBlocks:xpbottler, XP Bottler
+OpenBlocks:village_highlighter, Village Highlighter
+OpenBlocks:path, Path
+OpenBlocks:autoanvil, Auto Anvil
+OpenBlocks:autoenchantmenttable, Auto Enchantment Table
+OpenBlocks:xpdrain, XP Drain
+OpenBlocks:blockbreaker, Block Breaker
+OpenBlocks:blockPlacer, Block Placer
+OpenBlocks:itemDropper, Item Dropper
+OpenBlocks:ropeladder, Rope Ladder
+OpenBlocks:donationStation, Donation Station
+OpenBlocks:paintmixer, Paint Mixer
+OpenBlocks:canvas, Canvas
+OpenBlocks:paintcan, Paint Can
+OpenBlocks:canvasglass, Glass Canvas
+OpenBlocks:projector, Height Map Projector
+OpenBlocks:drawingtable, Drawing Table
+OpenBlocks:sky:0, Sky Block
+OpenBlocks:sky:1, Sky Block
+OpenBlocks:xpshower, XP Shower
+OpenBlocks:goldenegg, Golden Egg
+OpenBlocks:scaffolding, Scaffolding
 openmodularturrets:baseTierWood, Turret Base (Tier 1) 
 openmodularturrets:baseTierOneBlock, Turret Base (Tier 2) 
 openmodularturrets:baseTierTwoBlock, Turret Base (Tier 3) 
@@ -8022,6 +8114,14 @@ secretroomsmod:SecretChest, Secret Chest
 secretroomsmod:SecretTrappedChest, Secret Trapped Chest
 secretroomsmod:SecretLightDetector, Secret Light Detector
 secretroomsmod:SolidAir, Solid Air
+SGCraft:stargateRing:0, Stargate Ring Block
+SGCraft:stargateRing:1, Stargate Chevron Block
+SGCraft:stargateBase, Stargate Base
+SGCraft:stargateController, Stargate Controller
+SGCraft:naquadahBlock, Naquadah Alloy Block
+SGCraft:naquadahOre, Naquadah Ore
+SGCraft:ic2PowerUnit, IC2 Stargate Power Unit
+SGCraft:rfPowerUnit, RF Stargate Power Unit
 StorageDrawers:fullDrawers1:0, Oak Drawer
 StorageDrawers:fullDrawers1:1, Spruce Drawer
 StorageDrawers:fullDrawers1:2, Birch Drawer
@@ -13166,10 +13266,10 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Brownstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Fairy Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pokefennium Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - RedAurum Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Star Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Planks
@@ -13285,6 +13385,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Antimatter Bomb
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Antimatter Bomb
 appliedenergistics2:item.ItemFacade:0, Cable Facade - EMP Bomb
 appliedenergistics2:item.ItemFacade:0, Cable Facade - EMP Bomb
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Elevator
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hard Wall (Tier 1)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hard Wall (Tier 2)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hard Wall (Tier 3)
@@ -13308,6 +13409,8 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (14)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (15)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Fluxed Electrum Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Flux Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Naquadah Alloy Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Naquadah Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Oak Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Spruce Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Birch Trim
@@ -15331,7 +15434,6 @@ EnderIO:itemPowderIngot:4, Tin Powder
 EnderIO:itemPowderIngot:6, Enderium Base
 EnderIO:itemPowderIngot:7, Obsidian Powder
 EnderIO:itemPowderIngot:8, Flour
-EnderIO:bucketXpjuice, XP Bucket
 EnderIO:bucketNutrient_distillation, Nutrient Distillation Bucket
 EnderIO:bucketHootch, Hootch Bucket
 EnderIO:bucketRocket_fuel, Rocket Fuel Bucket
@@ -18297,6 +18399,24 @@ ForbiddenMagic:RingNutrition, Ring of Nutrition
 ForbiddenMagic:TaintFruit, Tainted Fruit
 ForbiddenMagic:TaintCoal, Hexcoal
 ForbiddenMagic:BlinkFocus, Wand Focus: Blink
+GraviSuite:graviChestPlate, GraviChestPlate
+GraviSuite:advNanoChestPlate, Advanced NanoChestPlate
+GraviSuite:ultimateLappack, Ultimate Lappack
+GraviSuite:advLappack, Advanced Lappack
+GraviSuite:advJetpack, Advanced Electric Jetpack
+GraviSuite:vajra, Vajra
+GraviSuite:graviTool, GraviTool
+GraviSuite:advDDrill, Advanced Diamond Drill
+GraviSuite:advChainsaw, Advanced Chainsaw
+GraviSuite:relocator, Relocator
+GraviSuite:sonicLauncher, item.sonicLauncher.name
+GraviSuite:itemSimpleItem:0, Superconductor Cover
+GraviSuite:itemSimpleItem:1, Superconductor
+GraviSuite:itemSimpleItem:2, Cooling Core
+GraviSuite:itemSimpleItem:3, Gravitation Engine
+GraviSuite:itemSimpleItem:4, Magnetron
+GraviSuite:itemSimpleItem:5, Vajra Core
+GraviSuite:itemSimpleItem:6, Engine Booster
 HardcoreEnderExpansion:silverfish_blood, Silverfish Blood
 HardcoreEnderExpansion:exp_bottle_consistent, Bottle o' Enchanting
 HardcoreEnderExpansion:altar_nexus, Altar Nexus
@@ -18891,6 +19011,69 @@ NuclearCraft:recordNeighborhood, NuclearCraft Music Disc
 NuclearCraft:blank, Blank
 NuclearCraft:antimatter, Antimatter (Temporary)
 NuclearCraft:lithiumIonBattery, Lithium Ion Battery
+OpenBlocks:hangglider, Hang Glider
+OpenBlocks:generic:0, Glider Wing
+OpenBlocks:generic:1, Beam
+OpenBlocks:generic:2, Crane Engine
+OpenBlocks:generic:3, Crane Magnet
+OpenBlocks:generic:5, Line
+OpenBlocks:generic:6, Map Controller Module
+OpenBlocks:generic:7, Map Memory Module
+OpenBlocks:generic:9, Assistant's base
+OpenBlocks:generic:10, Unprepared Stencil
+OpenBlocks:generic:11, Sketching Pencil
+OpenBlocks:luggage, Luggage
+OpenBlocks:sonicglasses, Sonic Glasses
+OpenBlocks:pencilGlasses:0, Pencil Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:technicolorGlasses:0, Amazing Technicolor Glasses
+OpenBlocks:seriousGlasses:0, Badass Glasses
+OpenBlocks:slimalyzer, Slimalyzer
+OpenBlocks:filledbucket:0, XP Bucket
+OpenBlocks:sleepingBag, Sleeping Bag
+OpenBlocks:paintBrush, Paint Brush
+OpenBlocks:stencil:0, Stencil
+OpenBlocks:stencil:1, Stencil
+OpenBlocks:stencil:2, Stencil
+OpenBlocks:stencil:3, Stencil
+OpenBlocks:stencil:4, Stencil
+OpenBlocks:stencil:5, Stencil
+OpenBlocks:stencil:6, Stencil
+OpenBlocks:stencil:7, Stencil
+OpenBlocks:stencil:8, Stencil
+OpenBlocks:stencil:9, Stencil
+OpenBlocks:stencil:10, Stencil
+OpenBlocks:stencil:11, Stencil
+OpenBlocks:stencil:12, Stencil
+OpenBlocks:stencil:13, Stencil
+OpenBlocks:stencil:14, Stencil
+OpenBlocks:squeegee:0, Squeegee
+OpenBlocks:emptyMap, Empty Map
+OpenBlocks:cartographer:0, Cartographer
+OpenBlocks:tastyClay, Tasty Clay
+OpenBlocks:goldenEye, Golden eye
+OpenBlocks:genericUnstackable:0, Pointer
+OpenBlocks:cursor, Cursor
+OpenBlocks:infoBook, World Domination with OpenBlocks
+OpenBlocks:devnull, /dev/null
+OpenBlocks:spongeonastick, Sponge
+OpenBlocks:pedometer, Pedometer
+OpenBlocks:epicEraser, Epic Eraser
 openmodularturrets:bulletThrowable, Throwable Bullet
 openmodularturrets:grenadeThrowable, Throwable Grenade
 openmodularturrets:accuraccyUpgradeItem, Upgrade - Accuracy
@@ -19189,6 +19372,69 @@ xreliquary:witherless_rose, Witherless Rose
 secretroomsmod:SecretWoodenDoorItem, Secret Wooden Door
 secretroomsmod:SecretWoodenIronItem, Secret Iron Door
 secretroomsmod:CamoflaugePaste, Camouflage Paste
+SGCraft:naquadah, Naquadah
+SGCraft:naquadahIngot, Naquadah Alloy Ingot
+SGCraft:sgCoreCrystal, Stargate Core Crystal
+SGCraft:sgControllerCrystal, Stargate Controller Crystal
+SGCraft:sgChevronUpgrade, Stargate Chevron Upgrade
+SGCraft:sgIrisUpgrade, Stargate Iris Upgrade
+SGCraft:sgIrisBlade, Stargate Iris Blade
+SGCraft:ic2Capacitor, Ridiculously Large Capacitor
+simplyjetpacks:jetpacksCommon:0, Tuberous Jetpack
+simplyjetpacks:jetpacksCommon:9001, Creative Jetpack
+simplyjetpacks:fluxpacksCommon:9001, Creative Flux Pack
+simplyjetpacks:jetpacks:1, Leadstone Jetpack
+simplyjetpacks:jetpacks:1, Leadstone Jetpack
+simplyjetpacks:jetpacks:101, Leadstone Jetpack (Armored)
+simplyjetpacks:jetpacks:101, Leadstone Jetpack (Armored)
+simplyjetpacks:jetpacks:2, Hardened Jetpack
+simplyjetpacks:jetpacks:2, Hardened Jetpack
+simplyjetpacks:jetpacks:102, Hardened Jetpack (Armored)
+simplyjetpacks:jetpacks:102, Hardened Jetpack (Armored)
+simplyjetpacks:jetpacks:3, Reinforced Jetpack
+simplyjetpacks:jetpacks:3, Reinforced Jetpack
+simplyjetpacks:jetpacks:103, Reinforced Jetpack (Armored)
+simplyjetpacks:jetpacks:103, Reinforced Jetpack (Armored)
+simplyjetpacks:jetpacks:4, Resonant Jetpack
+simplyjetpacks:jetpacks:4, Resonant Jetpack
+simplyjetpacks:jetpacks:104, Resonant Jetpack (Armored)
+simplyjetpacks:jetpacks:104, Resonant Jetpack (Armored)
+simplyjetpacks:jetpacks:5, Flux-Infused JetPlate
+simplyjetpacks:jetpacks:5, Flux-Infused JetPlate
+simplyjetpacks:fluxpacks:1, Leadstone Flux Pack
+simplyjetpacks:fluxpacks:1, Leadstone Flux Pack
+simplyjetpacks:fluxpacks:2, Hardened Flux Pack
+simplyjetpacks:fluxpacks:2, Hardened Flux Pack
+simplyjetpacks:fluxpacks:102, Hardened Flux Pack (Armored)
+simplyjetpacks:fluxpacks:102, Hardened Flux Pack (Armored)
+simplyjetpacks:fluxpacks:3, Redstone Flux Pack
+simplyjetpacks:fluxpacks:3, Redstone Flux Pack
+simplyjetpacks:fluxpacks:103, Redstone Flux Pack (Armored)
+simplyjetpacks:fluxpacks:103, Redstone Flux Pack (Armored)
+simplyjetpacks:fluxpacks:4, Resonant Flux Pack
+simplyjetpacks:fluxpacks:4, Resonant Flux Pack
+simplyjetpacks:fluxpacks:104, Resonant Flux Pack (Armored)
+simplyjetpacks:fluxpacks:104, Resonant Flux Pack (Armored)
+simplyjetpacks:components:0, Leather Strap
+simplyjetpacks:components:11, Leadstone Thruster
+simplyjetpacks:components:12, Hardened Thruster
+simplyjetpacks:components:13, Reinforced Thruster
+simplyjetpacks:components:14, Resonant Thruster
+simplyjetpacks:components:15, Fluxed Thruster
+simplyjetpacks:components:60, Glowstone Elevation Unit (Empty)
+simplyjetpacks:components:61, Glowstone Elevation Unit
+simplyjetpacks:components:62, Cryotheum Coolant Unit (Empty)
+simplyjetpacks:components:63, Cryotheum Coolant Unit
+simplyjetpacks:armorPlatings:1, Iron Armor Plating
+simplyjetpacks:armorPlatings:2, Bronze Armor Plating
+simplyjetpacks:armorPlatings:3, Invar Armor Plating
+simplyjetpacks:armorPlatings:4, Enderium Armor Plating
+simplyjetpacks:particleCustomizers:0, Particle Customizer (Default)
+simplyjetpacks:particleCustomizers:1, Particle Customizer (None)
+simplyjetpacks:particleCustomizers:2, Particle Customizer (Smoke Only)
+simplyjetpacks:particleCustomizers:3, Particle Customizer (Rainbow Smoke)
+simplyjetpacks:jetpackFueller, Jetpack Fueller
+simplyjetpacks:mysteriousPotato, Mysterious Potato
 StorageDrawers:upgradeTemplate, Upgrade Template
 StorageDrawers:upgrade:2, Storage Upgrade (II)
 StorageDrawers:upgrade:3, Storage Upgrade (III)
