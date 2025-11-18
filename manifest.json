@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Pink's Palace of Pain",
-  "version": "0.3.0",
+  "version": "0.3.0a",
   "author": "",
   "files": [
     {
@@ -427,11 +427,6 @@
     {
       "projectID": 238003,
       "fileID": 2286894,
-      "required": true
-    },
-    {
-      "projectID": 421184,
-      "fileID": 3154046,
       "required": true
     },
     {
