@@ -36,8 +36,8 @@
 35 is Occupied by NuclearGrenade(nc.entity.EntityNuclearGrenade)
 36 is Occupied by EntityBullet(nc.entity.EntityBullet)
 37 is Occupied by witherSkeleton(crazypants.enderio.entity.EntityWitherSkeleton)
-38 is Avaible
-39 is Avaible
+38 is Occupied by ESM_Ghast(funwayguy.esm.entities.EntityESMGhast)
+39 is Occupied by NEAT_Zombie(funwayguy.esm.entities.EntityNeatZombie)
 40 is Occupied by MinecartCommandBlock(mods.railcraft.common.carts.EntityCartCommand)
 41 is Occupied by Boat(net.minecraft.entity.item.EntityBoat)
 42 is Occupied by MinecartRideable(mods.railcraft.common.carts.EntityCartBasic)
@@ -65,7 +65,7 @@
 64 is Occupied by WitherBoss(net.minecraft.entity.boss.EntityWither)
 65 is Occupied by Bat(net.minecraft.entity.passive.EntityBat)
 66 is Occupied by Witch(net.minecraft.entity.monster.EntityWitch)
-67 is Avaible
+67 is Occupied by Void Monster(Reika.VoidMonster.Entity.EntityVoidMonster)
 68 is Avaible
 69 is Avaible
 70 is Avaible
@@ -148,7 +148,7 @@
 147 is Avaible
 148 is Avaible
 149 is Avaible
-150 is Occupied by LightningBolt(net.minecraft.entity.effect.EntityLightningBolt)
+150 is Avaible
 151 is Avaible
 152 is Avaible
 153 is Avaible

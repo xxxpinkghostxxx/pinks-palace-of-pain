@@ -1,7 +1,7 @@
 {
     "Clay": {
         "template": "uniform",
-        "block": "clay",
+        "block": "minecraft:clay",
         "clusterSize": 20,
         "numClusters": 3,
         "minHeight": 20,

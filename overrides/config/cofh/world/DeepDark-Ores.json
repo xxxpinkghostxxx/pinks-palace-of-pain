@@ -78,5 +78,165 @@
             -100,
             -19
         ]
+    },
+    "ddTitanium": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_titanium",
+        "clusterSize": 8,
+        "numClusters": 8,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100,
+            -19
+        ]
+    },
+    "ddTungsten": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_tungsten",
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100,
+            -19
+        ]
+    },
+    "ddFluorite": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_fluorite",
+        "clusterSize": 8,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100,
+            -19
+        ]
+    },
+    "ddBeryllium": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_beryllium",
+        "clusterSize": 8,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100,
+            -19
+        ]
+    },
+    "ddLignite": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_lignite",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100,
+            -19
+        ]
+    },
+    "ddAspestos": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_asbestos",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100,
+            -19
+        ]
+    },
+    "ddLithium": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_lithium",
+        "clusterSize": 8,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100,
+            -19
+        ]
+    },
+    "ddRareEarth": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_rare",
+        "clusterSize": 8,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100,
+            -19
+        ]
+    },
+    "ddCobalt": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_cobalt",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100,
+            -19
+        ]
+    },
+    "ddColtan": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_coltan",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100,
+            -19
+        ]
     }
 }

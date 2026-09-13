@@ -1,4 +1,4 @@
-Total amount of occupied biome ids: 187
+Total amount of occupied biome ids: 190
 Table of occupied biome ids and their owners
 id:name(class)
 0 : Ocean (class biomesoplenty.common.biome.overridden.BiomeGenBOPOcean)
@@ -126,6 +126,9 @@ id:name(class)
 122 : Lush River (class biomesoplenty.common.biome.overworld.tech.BiomeGenLushRiver)
 123 : Dry River (class biomesoplenty.common.biome.overworld.tech.BiomeGenDryRiver)
 124 : Storage Cell (class appeng.spatial.BiomeGenStorage)
+125 : Crater (class com.hbm.world.biome.BiomeGenCraterBase$BiomeGenCrater)
+126 : Inner Crater (class com.hbm.world.biome.BiomeGenCraterBase$BiomeGenCraterInner)
+127 : Outer Crater (class com.hbm.world.biome.BiomeGenCraterBase$BiomeGenCraterOuter)
 129 : Sunflower Plains (class net.minecraft.world.biome.BiomeGenPlains)
 130 : Desert M (class net.minecraft.world.biome.BiomeGenDesert)
 131 : Extreme Hills M (class net.minecraft.world.biome.BiomeGenHills)

@@ -1,5 +1,5 @@
-Total amount of free biome ids: 69
-Total amount of occupied biome ids: 187
+Total amount of free biome ids: 65346
+Total amount of occupied biome ids: 190
 Total amount of conflicted biome ids: 0
 All ids and their position:
 0 is Occupied by Ocean (biomesoplenty.common.biome.overridden.BiomeGenBOPOcean)
@@ -127,41 +127,28 @@ All ids and their position:
 122 is Occupied by Lush River (biomesoplenty.common.biome.overworld.tech.BiomeGenLushRiver)
 123 is Occupied by Dry River (biomesoplenty.common.biome.overworld.tech.BiomeGenDryRiver)
 124 is Occupied by Storage Cell (appeng.spatial.BiomeGenStorage)
-125 is Avaible
-126 is Avaible
-127 is Avaible
-128 is Avaible
+125 is Occupied by Crater (com.hbm.world.biome.BiomeGenCraterBase$BiomeGenCrater)
+126 is Occupied by Inner Crater (com.hbm.world.biome.BiomeGenCraterBase$BiomeGenCraterInner)
+127 is Occupied by Outer Crater (com.hbm.world.biome.BiomeGenCraterBase$BiomeGenCraterOuter)
+128 is Available
 129 is Occupied by Sunflower Plains (net.minecraft.world.biome.BiomeGenPlains)
 130 is Occupied by Desert M (net.minecraft.world.biome.BiomeGenDesert)
 131 is Occupied by Extreme Hills M (net.minecraft.world.biome.BiomeGenHills)
 132 is Occupied by Flower Forest (net.minecraft.world.biome.BiomeGenForest)
 133 is Occupied by Taiga M (net.minecraft.world.biome.BiomeGenTaiga)
 134 is Occupied by Swampland M (net.minecraft.world.biome.BiomeGenSwamp)
-135 is Avaible
-136 is Avaible
-137 is Avaible
-138 is Avaible
-139 is Avaible
+135-139 is Available
 140 is Occupied by Ice Plains Spikes (net.minecraft.world.biome.BiomeGenSnow)
-141 is Avaible
-142 is Avaible
-143 is Avaible
-144 is Avaible
-145 is Avaible
-146 is Avaible
-147 is Avaible
-148 is Avaible
+141-148 is Available
 149 is Occupied by Jungle M (net.minecraft.world.biome.BiomeGenJungle)
-150 is Avaible
+150 is Available
 151 is Occupied by JungleEdge M (net.minecraft.world.biome.BiomeGenJungle)
-152 is Avaible
-153 is Avaible
-154 is Avaible
+152-154 is Available
 155 is Occupied by Birch Forest M (net.minecraft.world.biome.BiomeGenForest)
 156 is Occupied by Birch Forest Hills M (net.minecraft.world.biome.BiomeGenForest)
 157 is Occupied by Roofed Forest M (net.minecraft.world.biome.BiomeGenForest)
 158 is Occupied by Cold Taiga M (net.minecraft.world.biome.BiomeGenTaiga)
-159 is Avaible
+159 is Available
 160 is Occupied by Mega Spruce Taiga (net.minecraft.world.biome.BiomeGenTaiga)
 161 is Occupied by Mega Spruce Taiga (net.minecraft.world.biome.BiomeGenTaiga)
 162 is Occupied by Extreme Hills+ M (net.minecraft.world.biome.BiomeGenHills)
@@ -170,38 +157,12 @@ All ids and their position:
 165 is Occupied by Mesa (Bryce) (net.minecraft.world.biome.BiomeGenMesa)
 166 is Occupied by Mesa Plateau F M (net.minecraft.world.biome.BiomeGenMesa)
 167 is Occupied by Mesa Plateau M (net.minecraft.world.biome.BiomeGenMesa)
-168 is Avaible
-169 is Avaible
-170 is Avaible
-171 is Avaible
-172 is Avaible
-173 is Avaible
-174 is Avaible
-175 is Avaible
-176 is Avaible
-177 is Avaible
-178 is Avaible
-179 is Avaible
-180 is Avaible
-181 is Avaible
-182 is Avaible
-183 is Avaible
-184 is Avaible
-185 is Avaible
-186 is Avaible
-187 is Avaible
-188 is Avaible
-189 is Avaible
-190 is Avaible
-191 is Avaible
+168-191 is Available
 192 is Occupied by Tainted Land (thaumcraft.common.lib.world.biomes.BiomeGenTaint)
 193 is Occupied by Magical Forest (thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest)
 194 is Occupied by Eerie (thaumcraft.common.lib.world.biomes.BiomeGenEerie)
 195 is Occupied by Eldritch (thaumcraft.common.lib.world.biomes.BiomeGenEldritch)
-196 is Avaible
-197 is Avaible
-198 is Avaible
-199 is Avaible
+196-199 is Available
 200 is Occupied by Twilight Clearing (twilightforest.biomes.TFBiomeClearing)
 201 is Occupied by Dark Forest (twilightforest.biomes.TFBiomeDarkForest)
 202 is Occupied by Dark Forest Center (twilightforest.biomes.TFBiomeDarkForestCenter)
@@ -221,12 +182,7 @@ All ids and their position:
 216 is Occupied by Thornlands (twilightforest.biomes.TFBiomeThornlands)
 217 is Occupied by Twilight Forest (twilightforest.biomes.TFBiomeTwilightForest)
 218 is Occupied by Dense Twilight Forest (twilightforest.biomes.TFBiomeTwilightForestVariant)
-219 is Avaible
-220 is Avaible
-221 is Avaible
-222 is Avaible
-223 is Avaible
-224 is Avaible
+219-224 is Available
 225 is Occupied by Aether (com.gildedgames.the_aether.world.biome.AetherBiome)
 226 is Occupied by Ocean Oil Field (buildcraft.energy.worldgen.BiomeGenOilOcean)
 227 is Occupied by Desert Oil Field (buildcraft.energy.worldgen.BiomeGenOilDesert)
@@ -243,18 +199,7 @@ All ids and their position:
 238 is Occupied by Coralium Infested Swamp (com.shinoow.abyssalcraft.common.world.biome.BiomeGenCorSwamp)
 239 is Occupied by Omothol (com.shinoow.abyssalcraft.common.world.biome.BiomeGenOmothol)
 240 is Occupied by Dark Realm (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarkRealm)
-241 is Avaible
-242 is Avaible
-243 is Avaible
-244 is Avaible
-245 is Avaible
-246 is Avaible
+241-246 is Available
 247 is Occupied by Pocket Dimension (org.dimdev.dimdoors.world.BiomeGenPocket)
 248 is Occupied by Limbo (org.dimdev.dimdoors.world.BiomeGenLimbo)
-249 is Avaible
-250 is Avaible
-251 is Avaible
-252 is Avaible
-253 is Avaible
-254 is Avaible
-255 is Avaible
+249-65535 is Available

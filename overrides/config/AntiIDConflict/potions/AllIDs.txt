@@ -1,5 +1,5 @@
-Total amount of free potion ids: 4022
-Total amount of occupied potion ids: 174
+Total amount of free potion ids: 65491
+Total amount of occupied potion ids: 145
 Total amount of conflicted potion ids: 0
 All ids and their position:
 0 is Occupied by potion.nutrition:toughness (ca.wescook.nutrition.potions.PotionToughness)
@@ -32,9 +32,9 @@ All ids and their position:
 27 is Occupied by immersiveengineering.potion.slippery (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
 28 is Occupied by immersiveengineering.potion.conductive (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
 29 is Occupied by potion.sunsBlessing (com.bobmowzie.mowziesmobs.server.potion.MowziePotionSunsBlessing)
-30 is Occupied by potion.fluxtaint (thaumcraft.api.potions.PotionFluxTaint)
-31 is Occupied by potion.minePrevention (com.chocolate.chocolateQuest.misc.PotionCQ)
-32 is Occupied by potion.visexhaust (thaumcraft.api.potions.PotionVisExhaust)
+30 is Avaible
+31 is Avaible
+32 is Avaible
 33 is Occupied by witchery:potion.paralysed (com.emoniph.witchery.brewing.potions.PotionParalysis)
 34 is Occupied by witchery:potion.wrappedinvine (com.emoniph.witchery.brewing.potions.PotionWrappedInVine)
 35 is Occupied by witchery:potion.spiked (com.emoniph.witchery.brewing.potions.PotionSpiked)
@@ -79,14 +79,14 @@ All ids and their position:
 74 is Occupied by witchery:potion.worship (com.emoniph.witchery.brewing.potions.PotionWorship)
 75 is Occupied by witchery:potion.keepeffects (com.emoniph.witchery.brewing.potions.PotionKeepEffectsOnDeath)
 76 is Occupied by witchery:potion.wolfsbane (com.emoniph.witchery.brewing.potions.PotionBase)
-77 is Occupied by potion.infvisexhaust (thaumcraft.common.lib.potions.PotionInfectiousVisExhaust)
-78 is Occupied by potion.unhunger (thaumcraft.common.lib.potions.PotionUnnaturalHunger)
+77 is Avaible
+78 is Avaible
 79 is Occupied by Demon Cloaking (WayofTime.alchemicalWizardry.common.potion.PotionDemonCloak)
-80 is Occupied by potion.warpward (thaumcraft.common.lib.potions.PotionWarpWard)
-81 is Occupied by potion.deathgaze (thaumcraft.common.lib.potions.PotionDeathGaze)
-82 is Occupied by potion.blurred (thaumcraft.common.lib.potions.PotionBlurredVision)
-83 is Occupied by potion.sunscorned (thaumcraft.common.lib.potions.PotionSunScorned)
-84 is Occupied by potion.thaumarhia (thaumcraft.common.lib.potions.PotionThaumarhia)
+80 is Avaible
+81 is Avaible
+82 is Avaible
+83 is Avaible
+84 is Avaible
 85 is Occupied by immersiveengineering.potion.flammable (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
 86 is Occupied by Fire Imbued (thaumic.tinkerer.common.potion.DummyPotions)
 87 is Occupied by Wated Imbued (thaumic.tinkerer.common.potion.DummyPotions)
@@ -99,7 +99,7 @@ All ids and their position:
 94 is Occupied by botania.potion.bloodthirst (vazkii.botania.common.brew.potion.PotionBloodthirst)
 95 is Occupied by botania.potion.allure (vazkii.botania.common.brew.potion.PotionAllure)
 96 is Occupied by botania.potion.clear (vazkii.botania.common.brew.potion.PotionClear)
-97 is Avaible
+97 is Occupied by potion.levitation (ganymedes01.etfuturum.potion.PotionLevitation)
 98 is Occupied by potion.paralysis (biomesoplenty.common.potions.PotionParalysis)
 99 is Occupied by potion.possession (biomesoplenty.common.potions.PotionPossession)
 100 is Occupied by Drowning (WayofTime.alchemicalWizardry.common.potion.PotionDrowning)
@@ -123,8 +123,8 @@ All ids and their position:
 118 is Occupied by potion.Antimatter (com.shinoow.abyssalcraft.common.potion.PotionAntimatter)
 119 is Occupied by immersiveengineering.potion.sticky (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
 120 is Occupied by effect.aether.inebriation (com.gildedgames.the_aether.entities.effects.PotionInebriation)
-121 is Avaible
-122 is Avaible
+121 is Occupied by AddHeart (tombenpotter.sanguimancy.potion.PotionAddHeart)
+122 is Occupied by RemoveHeart (tombenpotter.sanguimancy.potion.PotionRemoveHeart)
 123 is Avaible
 124 is Avaible
 125 is Avaible
@@ -145,48 +145,48 @@ All ids and their position:
 140 is Occupied by potion.mind_control (electroblob.wizardry.potion.PotionMagicEffect)
 141 is Occupied by potion.font_of_mana (electroblob.wizardry.potion.PotionMagicEffect)
 142 is Occupied by potion.fear (electroblob.wizardry.potion.PotionMagicEffect)
-143 is Occupied by alfheim.potion.beast (alfheim.common.potion.PotionBeastWithin)
-144 is Occupied by alfheim.potion.berserk (alfheim.common.potion.PotionBerserk)
-145 is Occupied by alfheim.potion.bleeding (alfheim.common.potion.PotionBleeding)
-146 is Occupied by alfheim.potion.champagne (alfheim.common.potion.PotionChampagne)
-147 is Occupied by alfheim.potion.eternity (alfheim.common.potion.PotionEternity)
-148 is Occupied by alfheim.potion.icelens (alfheim.common.potion.PotionIceLens)
-149 is Occupied by alfheim.potion.lightningShield (alfheim.common.potion.PotionLightningShield)
-150 is Occupied by alfheim.potion.manaVoid (alfheim.common.potion.PotionManaVoid)
-151 is Occupied by alfheim.potion.ninja (alfheim.common.potion.PotionNinja)
-152 is Occupied by alfheim.potion.overcold (alfheim.common.potion.PotionAlfheim)
-153 is Occupied by alfheim.potion.overheat (alfheim.common.potion.PotionAlfheim)
-154 is Occupied by alfheim.potion.overmage (alfheim.common.potion.PotionAlfheim)
-155 is Occupied by alfheim.potion.possession (alfheim.common.potion.PotionAlfheim)
-156 is Occupied by alfheim.potion.soulburn (alfheim.common.potion.PotionSoulburn)
-157 is Occupied by alfheim.potion.tank (alfheim.common.potion.PotionTank)
-158 is Occupied by alfheim.potion.whiteWine (alfheim.common.potion.PotionWhiteWine)
-159 is Occupied by alfheim.potion.wisdom (alfheim.common.potion.PotionAlfheim)
-160 is Occupied by alfheim.potion.WTFBerry0 (alfheim.common.potion.berries.PotionWTFBerry0)
-161 is Occupied by alfheim.potion.WTFBerry2 (alfheim.common.potion.berries.PotionWTFBerry2)
-162 is Occupied by alfheim.potion.WTFBerry3 (alfheim.common.potion.berries.PotionWTFBerry3)
-163 is Occupied by alfheim.potion.WTFBerry4 (alfheim.common.potion.berries.PotionWTFBerry4)
-164 is Occupied by alfheim.potion.WTFBerry5 (alfheim.common.potion.berries.PotionWTFBerry5)
-165 is Occupied by alfheim.potion.butterShield (alfheim.common.potion.PotionButterShield)
-166 is Occupied by alfheim.potion.deathMark (alfheim.common.potion.PotionDeathMark)
-167 is Occupied by alfheim.potion.decay (alfheim.common.potion.PotionAlfheim)
-168 is Occupied by alfheim.potion.edgeLife (alfheim.common.potion.PotionEdgeLife)
-169 is Occupied by alfheim.potion.goldRush (alfheim.common.potion.PotionGoldRush)
-170 is Occupied by alfheim.potion.hystrix (alfheim.common.potion.PotionHystrix)
-171 is Occupied by alfheim.potion.leftFlame (alfheim.common.potion.PotionLeftFlame)
-172 is Occupied by alfheim.potion.nineLives (alfheim.common.potion.PotionAlfheim)
-173 is Occupied by alfheim.potion.noclip (alfheim.common.potion.PotionNoclip)
-174 is Occupied by alfheim.potion.priorityTarget (alfheim.common.potion.PotionPriorityTarget)
-175 is Occupied by alfheim.potion.quadDamage (alfheim.common.potion.PotionQuadDamage)
-176 is Occupied by alfheim.potion.sacrifice (alfheim.common.potion.PotionSacrifice)
-177 is Occupied by alfheim.potion.showMana (alfheim.common.potion.PotionShowMana)
-178 is Occupied by alfheim.potion.stoneSkin (alfheim.common.potion.PotionAlfheim)
-179 is Occupied by alfheim.potion.throw (alfheim.common.potion.PotionThrow)
-180 is Occupied by alfheim.potion.timeAnchor (alfheim.common.potion.PotionTimeAnchor)
-181 is Occupied by alfheim.potion.timeConquest (alfheim.common.potion.PotionTimeConquest)
-182 is Occupied by alfheim.potion.voodooDoll (alfheim.common.potion.PotionVoodooDoll)
-183 is Occupied by alfheim.potion.voodooTarget (alfheim.common.potion.PotionVoodooTarget)
-184 is Occupied by alfheim.potion.wellolife (alfheim.common.potion.PotionWellOLife)
+143 is Occupied by potion.hbm_taint (com.hbm.potion.HbmPotion)
+144 is Occupied by potion.hbm_radiation (com.hbm.potion.HbmPotion)
+145 is Occupied by potion.hbm_bang (com.hbm.potion.HbmPotion)
+146 is Occupied by potion.hbm_mutation (com.hbm.potion.HbmPotion)
+147 is Occupied by potion.hbm_radx (com.hbm.potion.HbmPotion)
+148 is Occupied by potion.hbm_lead (com.hbm.potion.HbmPotion)
+149 is Occupied by potion.hbm_radaway (com.hbm.potion.HbmPotion)
+150 is Avaible
+151 is Occupied by potion.hbm_phosphorus (com.hbm.potion.HbmPotion)
+152 is Occupied by potion.hbm_stability (com.hbm.potion.HbmPotion)
+153 is Occupied by potion.hbm_potionsickness (com.hbm.potion.HbmPotion)
+154 is Occupied by potion.hbm_death (com.hbm.potion.HbmPotion)
+155 is Avaible
+156 is Avaible
+157 is Avaible
+158 is Avaible
+159 is Avaible
+160 is Avaible
+161 is Avaible
+162 is Avaible
+163 is Avaible
+164 is Avaible
+165 is Avaible
+166 is Avaible
+167 is Avaible
+168 is Avaible
+169 is Avaible
+170 is Avaible
+171 is Avaible
+172 is Avaible
+173 is Avaible
+174 is Avaible
+175 is Avaible
+176 is Avaible
+177 is Avaible
+178 is Avaible
+179 is Avaible
+180 is Avaible
+181 is Avaible
+182 is Avaible
+183 is Avaible
+184 is Avaible
 185 is Avaible
 186 is Avaible
 187 is Avaible
@@ -1002,15 +1002,15 @@ All ids and their position:
 997 is Avaible
 998 is Avaible
 999 is Avaible
-1000 is Avaible
-1001 is Avaible
-1002 is Avaible
-1003 is Avaible
-1004 is Avaible
-1005 is Avaible
-1006 is Avaible
-1007 is Avaible
-1008 is Avaible
+1000 is Occupied by potion.fluxtaint (thaumcraft.api.potions.PotionFluxTaint)
+1001 is Occupied by potion.visexhaust (thaumcraft.api.potions.PotionVisExhaust)
+1002 is Occupied by potion.infvisexhaust (thaumcraft.common.lib.potions.PotionInfectiousVisExhaust)
+1003 is Occupied by potion.unhunger (thaumcraft.common.lib.potions.PotionUnnaturalHunger)
+1004 is Occupied by potion.warpward (thaumcraft.common.lib.potions.PotionWarpWard)
+1005 is Occupied by potion.deathgaze (thaumcraft.common.lib.potions.PotionDeathGaze)
+1006 is Occupied by potion.blurred (thaumcraft.common.lib.potions.PotionBlurredVision)
+1007 is Occupied by potion.sunscorned (thaumcraft.common.lib.potions.PotionSunScorned)
+1008 is Occupied by potion.thaumarhia (thaumcraft.common.lib.potions.PotionThaumarhia)
 1009 is Avaible
 1010 is Avaible
 1011 is Avaible

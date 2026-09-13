@@ -140,7 +140,7 @@
 39 is Avaible
 40 is Avaible
 41 is Avaible
-42 is Avaible
+42 is Occupied by: Soul Network Dimension, Provider: (id: 42, class: class tombenpotter.sanguimancy.world.WorldProviderSoulNetworkDimension)
 43 is Avaible
 44 is Avaible
 45 is Avaible
