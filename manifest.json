@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Pink's Palace of Pain",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "author": "",
   "overrides": "overrides",
   "files": [
@@ -148,12 +148,6 @@
       "isLocked": false
     },
     {
-      "projectID": 223328,
-      "fileID": 2506747,
-      "required": true,
-      "isLocked": false
-    },
-    {
       "projectID": 221857,
       "fileID": 2270206,
       "required": true,
@@ -191,7 +185,7 @@
     },
     {
       "projectID": 32274,
-      "fileID": 8845221,
+      "fileID": 8880578,
       "required": true,
       "isLocked": false
     },
@@ -544,6 +538,12 @@
       "isLocked": false
     },
     {
+      "projectID": 267193,
+      "fileID": 8748859,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 243298,
       "fileID": 5718845,
       "required": true,
@@ -552,12 +552,6 @@
     {
       "projectID": 53686,
       "fileID": 2311135,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 223815,
-      "fileID": 2276684,
       "required": true,
       "isLocked": false
     },
@@ -588,6 +582,18 @@
     {
       "projectID": 242878,
       "fileID": 2287047,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 907044,
+      "fileID": 4734166,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 898104,
+      "fileID": 8411832,
       "required": true,
       "isLocked": false
     },
@@ -912,12 +918,6 @@
     {
       "projectID": 665627,
       "fileID": 8169770,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 250498,
-      "fileID": 2327392,
       "required": true,
       "isLocked": false
     },

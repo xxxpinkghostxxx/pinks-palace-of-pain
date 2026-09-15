@@ -16,6 +16,10 @@ key_key.screenshot:60
 key_key.togglePerspective:63
 key_key.smoothCamera:66
 key_key.sprint:29
+key_key.streamStartStop:0
+key_key.streamPauseUnpause:0
+key_key.streamCommercial:0
+key_key.streamToggleMic:0
 key_key.fullscreen:87
 key_key.hotbar.1:2
 key_key.hotbar.2:3
@@ -32,35 +36,68 @@ key_Mode Switch Key:0
 key_Side Inventory Key:0
 key_Hub Expand Key:0
 key_keys.baubleshud.config:0
-key_Clipboard:0
-key_Open Consumer GUI:0
-key_Ender Pack:0
-key_key.party:0
-key_key.next:0
-key_key.prev:0
 key_cos.key.openCosArmorInventory:0
 key_Tool Increase:0
 key_Tool Decrease:0
 key_key.openCompendium:0
+key_Gravi Fly Key:0
+key_Gravi Display Hud:0
+key_hbm.key.calculator:0
+key_hbm.key.toggleBack:0
+key_hbm.key.toggleMagnet:0
+key_hbm.key.toggleHUD:0
+key_hbm.key.dash:0
+key_hbm.key.trainInv:0
+key_hbm.key.qmaw:0
+key_hbm.key.reload:0
+key_hbm.key.gunPrimary:0
+key_hbm.key.gunSecondary:0
+key_hbm.key.gunTertitary:0
+key_hbm.key.craneMoveUp:0
+key_hbm.key.craneMoveDown:0
+key_hbm.key.craneMoveLeft:0
+key_hbm.key.craneMoveRight:0
+key_hbm.key.craneLoad:0
+key_hbm.key.ability:0
+key_hbm.key.abilityAlt:0
+key_hbm.key.copyToolAlt:0
+key_hbm.key.copyToolCtrl:0
 key_key_ironbackpacks_openbackpack:0
 key_key_ironbackpacks_equipbackpack:0
+key_openblocks.keybind.vario_switch:0
+key_openblocks.keybind.vario_vol_up:0
+key_openblocks.keybind.vario_vol_down:0
 key_Pneumatic Helmet Options:0
 key_Pneumatic Helmet Hack:0
 key_Pneumatic Helmet Debugging Drone:0
-key_asjcore.noEntityInteract:68
+key_schematica.key.load:0
+key_schematica.key.save:0
+key_schematica.key.control:0
+key_schematica.key.layerInc:0
+key_schematica.key.layerDec:0
+key_simplyjetpacks.keybind.toggle.primary:0
+key_simplyjetpacks.keybind.toggle.secondary:0
+key_simplyjetpacks.keybind.mode.primary:0
+key_simplyjetpacks.keybind.mode.secondary:0
+key_simplyjetpacks.keybind.openPackGUI:0
 key_Baubles Inventory:0
 key_Change Wand Focus:0
 key_Activate Hover Harness:0
 key_Misc Wand Toggle:0
 key_key.aether.accessory_menu:0
-key_key.next_spell:0
-key_key.previous_spell:0
-key_Unequip:0
 key_waila.keybind.wailaconfig:0
 key_waila.keybind.wailadisplay:0
 key_waila.keybind.liquid:0
 key_waila.keybind.recipe:0
 key_waila.keybind.usage:0
+key_key.tarmor:0
+key_key.tgoggles:0
+key_key.tbelt:0
+key_key.tzoom:0
+key_Options Gui:0
+key_key.next_spell:0
+key_key.previous_spell:0
+key_Unequip:0
 key_Glider Toggle:0
 key_Sound Locator:0
 key_Night Vision:0
@@ -70,27 +107,40 @@ key_Speed:0
 key_Jump:0
 key_Yeta Wrench Mode:0
 key_Toggle Electromagnet:0
-key_key.tarmor:0
-key_key.tgoggles:0
-key_key.tbelt:0
-key_key.tzoom:0
 key_ttmisc.toggleArmor:0
 key_invtweaks.key.sort:0
+key_key.journeymap.minimap_preset:43
+key_key.journeymap.toggle_entity_names:34
+key_key.journeymap.toggle_render_waypoints_map:0
+key_key.journeymap.fullscreen.south:208
+key_key.journeymap.zoom_in:13
+key_key.journeymap.fullscreen.north:200
+key_key.journeymap.fullscreen_waypoints:0
+key_key.journeymap.toggle_render_waypoints_world:0
+key_key.journeymap.fullscreen.east:205
+key_key.journeymap.zoom_out:12
+key_key.journeymap.create_waypoint:49
+key_key.journeymap.fullscreen.disable_buttons:0
+key_key.journeymap.minimap_type:26
+key_key.journeymap.fullscreen_create_waypoint:49
+key_key.journeymap.fullscreen.west:203
+key_key.journeymap.toggle_waypoints:0
+key_key.journeymap.fullscreen_chat_position:46
+key_key.journeymap.map_toggle_alt:36
+key_key.journeymap.toggle_render_waypoints:0
+key_key.journeymap.minimap_toggle_alt:0
+key_key.journeymap.fullscreen_options:24
+key_key.journeymap.fullscreen_follow_player:0
 key_key.nutrition:0
 key_key.primitivemobs.desc:0
 key_key.secretroomsmod.oneWayface:0
+key_key.aspectMenu:0
 key_key.cofh.empower:0
 key_key.cofh.multimode:0
-key_key.akashic.desc:0
-key_key.lolicorn.desc:0
+key_key.carbon_config.key:0
+key_key.carbon_config.dep:0
 key_railcraft.keybind.loco.faster:0
 key_railcraft.keybind.loco.slower:0
 key_railcraft.keybind.loco.mode:0
 key_railcraft.keybind.loco.whistle:0
 key_key.control:0
-key_key.journeymap.map_toggle:36
-key_key.journeymap.zoom_in:13
-key_key.journeymap.zoom_out:12
-key_key.journeymap.minimap_type:26
-key_key.journeymap.minimap_preset:43
-key_key.journeymap.create_waypoint:49

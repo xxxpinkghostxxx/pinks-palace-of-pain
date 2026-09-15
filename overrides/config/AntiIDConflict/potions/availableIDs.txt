@@ -1,5 +1,6 @@
 Total amount of free potion ids: C:\Minecraft\CurseForge\Instances\Pink's Palace of Pain (Dev)\config\AntiIDConflict\potions\availableIDs.txt
 List of free potion ids:
+29
 30
 31
 32

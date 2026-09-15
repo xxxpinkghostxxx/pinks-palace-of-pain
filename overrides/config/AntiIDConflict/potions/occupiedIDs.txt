@@ -1,4 +1,4 @@
-Total amount of occupied potion ids: 145
+Total amount of occupied potion ids: 144
 Table of occupied potion ids and their owners
 id:name(class)
 0 : potion.nutrition:toughness (ca.wescook.nutrition.potions.PotionToughness)
@@ -30,7 +30,6 @@ id:name(class)
 26 : potion.nutrition:malnourished (ca.wescook.nutrition.potions.PotionMalnourished)
 27 : immersiveengineering.potion.slippery (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
 28 : immersiveengineering.potion.conductive (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
-29 : potion.sunsBlessing (com.bobmowzie.mowziesmobs.server.potion.MowziePotionSunsBlessing)
 33 : witchery:potion.paralysed (com.emoniph.witchery.brewing.potions.PotionParalysis)
 34 : witchery:potion.wrappedinvine (com.emoniph.witchery.brewing.potions.PotionWrappedInVine)
 35 : witchery:potion.spiked (com.emoniph.witchery.brewing.potions.PotionSpiked)

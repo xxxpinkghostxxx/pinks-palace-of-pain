@@ -1,5 +1,5 @@
-Total amount of free potion ids: 65491
-Total amount of occupied potion ids: 145
+Total amount of free potion ids: 65492
+Total amount of occupied potion ids: 144
 Total amount of conflicted potion ids: 0
 All ids and their position:
 0 is Occupied by potion.nutrition:toughness (ca.wescook.nutrition.potions.PotionToughness)
@@ -31,7 +31,7 @@ All ids and their position:
 26 is Occupied by potion.nutrition:malnourished (ca.wescook.nutrition.potions.PotionMalnourished)
 27 is Occupied by immersiveengineering.potion.slippery (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
 28 is Occupied by immersiveengineering.potion.conductive (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
-29 is Occupied by potion.sunsBlessing (com.bobmowzie.mowziesmobs.server.potion.MowziePotionSunsBlessing)
+29 is Avaible
 30 is Avaible
 31 is Avaible
 32 is Avaible
